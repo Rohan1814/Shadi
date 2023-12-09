@@ -4,7 +4,7 @@ header{
     width: 100%;
     min-height: 100vh;
     background:linear-gradient(rgba);
-    background-image: url(./image/shadi.jpg);
+    background-image: url(./shadi.jpg);
     background-size:cover;
     position: relative;
 }
